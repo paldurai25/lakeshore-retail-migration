@@ -1,0 +1,41 @@
+product_id,product_name,category,list_price,unit_cost,is_active
+P0001,Tent Basic,Outdoor,81.14,45.36,Y
+P0002,Tent Pro,Outdoor,60.24,34.21,Y
+P0003,Backpack Basic,Outdoor,98.85,44.61,Y
+P0004,Backpack Pro,Outdoor,177.2,104.48,Y
+P0005,Camp Chair Basic,Outdoor,46.77,22.5,Y
+P0006,Camp Chair Pro,Outdoor,207.45,107.32,Y
+P0007,Hiking Boots Basic,Outdoor,19.29,9.05,Y
+P0008,Hiking Boots Pro,Outdoor,185.53,105.89,Y
+P0009,Water Bottle Basic,Outdoor,98.59,58.75,Y
+P0010,Water Bottle Pro,Outdoor,123.34,79.51,Y
+P0011,Chef Knife Basic,Kitchen,51.02,28.59,Y
+P0012,Chef Knife Pro,Kitchen,181.92,104.37,Y
+P0013,Skillet Basic,Kitchen,104.65,59.18,Y
+P0014,Skillet Pro,Kitchen,156.97,72.08,Y
+P0015,Blender Basic,Kitchen,34.3,17.42,Y
+P0016,Blender Pro,Kitchen,32.14,15.96,Y
+P0017,Coffee Maker Basic,Kitchen,20.21,10.22,Y
+P0018,Coffee Maker Pro,Kitchen,143.21,74.89,Y
+P0019,Cutting Board Basic,Kitchen,50.09,24.64,Y
+P0020,Cutting Board Pro,Kitchen,69.54,44.32,Y
+P0021,Desk Lamp Basic,Home,80.93,46.28,Y
+P0022,Desk Lamp Pro,Home,50.39,30.02,Y
+P0023,Throw Blanket Basic,Home,27.14,14.27,Y
+P0024,Throw Blanket Pro,Home,213.91,123.64,Y
+P0025,Wall Clock Basic,Home,70.82,41.57,Y
+P0026,Wall Clock Pro,Home,184.6,111.72,Y
+P0027,Rug Basic,Home,34.42,15.71,Y
+P0028,Rug Pro,Home,79.23,39.9,Y
+P0029,Bookshelf Basic,Home,32.42,20.7,Y
+P0030,Bookshelf Pro,Home,191.3,98.12,Y
+P0031,Headphones Basic,Electronics,81.75,43.26,Y
+P0032,Headphones Pro,Electronics,198.93,107.77,Y
+P0033,Bluetooth Speaker Basic,Electronics,38.4,19.17,Y
+P0034,Bluetooth Speaker Pro,Electronics,128.36,64.51,Y
+P0035,Power Bank Basic,Electronics,73.89,46.52,Y
+P0036,Power Bank Pro,Electronics,96.0,47.41,Y
+P0037,Smart Plug Basic,Electronics,119.73,66.08,Y
+P0038,Smart Plug Pro,Electronics,34.36,15.79,Y
+P0039,Webcam Basic,Electronics,21.17,12.18,Y
+P0040,Webcam Pro,Electronics,174.46,93.24,N

@@ -1,0 +1,13 @@
+store_id,store_name,city,state,store_type,opened_date
+S001,Lakeshore Detroit,Detroit,MI,Outlet,2016-04-01
+S002,Lakeshore Troy,Troy,MI,Mall,2018-01-31
+S003,Lakeshore Royal Oak,Royal Oak,MI,Mall,2017-07-03
+S004,Lakeshore Ann Arbor,Ann Arbor,MI,Mall,2016-02-24
+S005,Lakeshore Grand Rapids,Grand Rapids,MI,Outlet,2021-02-11
+S006,Lakeshore Lansing,Lansing,MI,Mall,2021-08-15
+S007,Lakeshore Toledo,Toledo,OH,Street,2015-05-11
+S008,Lakeshore Columbus,Columbus,OH,Mall,2016-01-19
+S009,Lakeshore Chicago,Chicago,IL,Mall,2017-08-10
+S010,Lakeshore Indianapolis,Indianapolis,IN,Outlet,2021-10-01
+S011,Lakeshore Novi,Novi,MI,Mall,2021-04-17
+S012,Lakeshore Dearborn,Dearborn,MI,Mall,2023-01-11

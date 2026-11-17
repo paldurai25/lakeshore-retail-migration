@@ -1,0 +1,26 @@
+customer_id,first_name,last_name,email,city,state,loyalty_tier,signup_date
+C00422,Wei,Rodriguez,wei.rodriguez422@example.com,Indianapolis,IN,Silver,2020-02-23
+C00013,Sarah,Jones,sarah.jones13@example.com,Ann Arbor,MI,Gold,2022-08-31
+C00018,Linda,Davis,linda.davis18@example.com,Troy,MI,Silver,2020-02-13
+C00543,Mei,Martinez,mei.martinez543@example.com,Troy,MI,Gold,2021-06-05
+C00282,John,Jones,john.jones282@example.com,Toledo,OH,Gold,2023-07-20
+C00549,Ama,Nguyen,ama.nguyen549@example.com,Chicago,IL,Gold,2023-10-30
+C00294,Patricia,Chen,patricia.chen294@example.com,Detroit,MI,Silver,2024-03-16
+C00515,Lucia,Martinez,lucia.martinez515@example.com,Royal Oak,MI,Silver,2021-09-03
+C00441,Lucia,Johnson,lucia.johnson441@example.com,Columbus,OH,Gold,2020-11-09
+C00184,Priya,Smith,priya.smith184@example.com,Lansing,MI,Silver,2020-03-23
+C00110,Joseph,Chen,joseph.chen110@example.com,Chicago,IL,Silver,2022-05-10
+C00099,Linda,Brown,linda.brown99@example.com,Ann Arbor,MI,Silver,2024-06-29
+C00537,Mary,Anderson,mary.anderson537@example.com,Indianapolis,IN,Gold,2023-03-18
+C00153,David,Davis,david.davis153@example.com,Grand Rapids,MI,Silver,2021-01-29
+C00247,John,Jones,john.jones247@example.com,Troy,MI,Gold,2024-01-23
+C00197,Jessica,Brown,jessica.brown197@example.com,Chicago,IL,Silver,2023-05-31
+C00540,Jessica,Williams,jessica.williams540@example.com,Royal Oak,MI,Gold,2024-07-14
+C00259,Sofia,Anderson,,Detroit,MI,Silver,2024-02-29
+C00363,Diego,Taylor,diego.taylor363@example.com,Indianapolis,IN,Silver,2022-02-10
+C00274,Jennifer,Rodriguez,jennifer.rodriguez274@example.com,Toledo,OH,Silver,2024-02-28
+C00407,Carlos,Lopez,,Grand Rapids,MI,Silver,2021-06-30
+C00081,Mei,Patel,mei.patel81@example.com,Indianapolis,IN,Silver,2023-09-20
+C00383,Olu,Jones,olu.jones383@example.com,Indianapolis,IN,Gold,2023-05-31
+C00416,Jennifer,Smith,jennifer.smith416@example.com,Chicago,IL,Gold,2023-10-20
+C00471,Sarah,Martinez,sarah.martinez471@example.com,Toledo,OH,Silver,2022-10-29

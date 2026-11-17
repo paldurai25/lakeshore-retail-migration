@@ -1,0 +1,603 @@
+customer_id,first_name,last_name,email,city,state,loyalty_tier,signup_date
+C00001,John,Nguyen,john.nguyen1@example.com,Toledo,OH,Gold,2022-08-16
+C00002,Thomas,Rodriguez,thomas.rodriguez2@example.com,Chicago,IL,Bronze,2023-10-25
+C00003,Sofia,Brown,sofia.brown3@example.com,Chicago,IL,Silver,2024-04-23
+C00004,Wei,Patel,wei.patel4@example.com,Troy,MI,Silver,2022-06-09
+C00005,Jennifer,Kim,jennifer.kim5@example.com,Detroit,MI,Gold,2024-01-13
+C00006,David,Wilson,david.wilson6@example.com,Royal Oak,MI,Gold,2020-08-05
+C00007,Ama,Martinez,ama.martinez7@example.com,Chicago,IL,Gold,2021-02-11
+C00008,Robert,Kumar,robert.kumar8@example.com,Royal Oak,MI,Gold,2024-05-13
+C00009,Lucia,Wilson,lucia.wilson9@example.com,Detroit,MI,Gold,2021-10-25
+C00010,Jessica,Smith,jessica.smith10@example.com,Troy,MI,Silver,2024-07-10
+C00011,Elizabeth,Davis,elizabeth.davis11@example.com,Detroit,MI,Bronze,2023-03-07
+C00012,John,Williams,john.williams12@example.com,Columbus,OH,Bronze,2024-04-06
+C00013,Sarah,Jones,sarah.jones13@example.com,Royal Oak,MI,Gold,2022-08-31
+C00014,Sarah,Garcia,sarah.garcia14@example.com,Grand Rapids,MI,Gold,2023-05-27
+C00015,Susan,Miller,susan.miller15@example.com,Chicago,IL,Gold,2023-11-13
+C00016,Michael,Martinez,michael.martinez16@example.com,Toledo,OH,Gold,2023-08-23
+C00017,Barbara,Kim,barbara.kim17@example.com,Chicago,IL,Silver,2020-09-04
+C00018,Linda,Davis,linda.davis18@example.com,Troy,MI,Silver,2020-02-13
+C00019,Priya,Anderson,priya.anderson19@example.com,Ann Arbor,MI,Gold,2021-03-27
+C00020,James,Williams,james.williams20@example.com,Detroit,MI,Bronze,2020-05-18
+C00021,Diego,Johnson,diego.johnson21@example.com,Lansing,MI,Bronze,2022-11-18
+C00022,Linda,Rodriguez,linda.rodriguez22@example.com,Columbus,OH,Bronze,2023-01-09
+C00023,Robert,Thomas,robert.thomas23@example.com,Indianapolis,IN,Silver,2021-05-12
+C00024,Fatima,Lopez,fatima.lopez24@example.com,Toledo,OH,Bronze,2020-07-12
+C00025,Patricia,Chen,patricia.chen25@example.com,Lansing,MI,Silver,2022-04-21
+C00026,Joseph,Johnson,joseph.johnson26@example.com,Troy,MI,Bronze,2022-04-04
+C00027,Sofia,Patel,sofia.patel27@example.com,Troy,MI,Bronze,2021-01-27
+C00028,Michael,Anderson,michael.anderson28@example.com,Columbus,OH,Bronze,2022-05-14
+C00029,Jennifer,Rodriguez,jennifer.rodriguez29@example.com,Columbus,OH,Bronze,2020-06-03
+C00030,Joseph,Anderson,joseph.anderson30@example.com,Troy,MI,Bronze,2023-08-28
+C00031,Sarah,Smith,sarah.smith31@example.com,Troy,MI,Bronze,2020-12-06
+C00032,Susan,Lopez,susan.lopez32@example.com,Columbus,OH,Bronze,2022-04-01
+C00033,Diego,Johnson,diego.johnson33@example.com,Royal Oak,MI,Silver,2020-01-05
+C00034,Richard,Rodriguez,richard.rodriguez34@example.com,Columbus,OH,Silver,2022-05-16
+C00035,Carlos,Anderson,carlos.anderson35@example.com,Columbus,OH,Bronze,2021-01-23
+C00036,Elizabeth,Miller,elizabeth.miller36@example.com,Detroit,MI,Gold,2024-02-15
+C00037,Sarah,Johnson,,Lansing,MI,Bronze,2020-04-12
+C00038,Priya,Lopez,priya.lopez38@example.com,Chicago,IL,Gold,2020-11-18
+C00039,Mary,Wilson,mary.wilson39@example.com,Troy,MI,Bronze,2020-05-20
+C00040,Arjun,Williams,arjun.williams40@example.com,Ann Arbor,MI,Silver,2020-09-02
+C00041,Diego,Thomas,diego.thomas41@example.com,Ann Arbor,MI,Gold,2023-05-02
+C00042,Mary,Taylor,mary.taylor42@example.com,Troy,MI,Silver,2023-09-08
+C00043,Priya,Thomas,priya.thomas43@example.com,Chicago,IL,Silver,2021-06-18
+C00044,Michael,Patel,michael.patel44@example.com,Ann Arbor,MI,Silver,2022-03-21
+C00045,Robert,Martinez,robert.martinez45@example.com,Columbus,OH,Silver,2024-03-19
+C00046,Lucia,Williams,lucia.williams46@example.com,Detroit,MI,Silver,2023-06-26
+C00047,Priya,Brown,priya.brown47@example.com,Troy,MI,Gold,2021-03-12
+C00048,Thomas,Rodriguez,thomas.rodriguez48@example.com,Royal Oak,MI,Silver,2020-05-20
+C00049,Diego,Davis,diego.davis49@example.com,Lansing,MI,Silver,2020-11-19
+C00050,Joseph,Anderson,joseph.anderson50@example.com,Grand Rapids,MI,Gold,2024-07-10
+C00051,Wei,Wilson,wei.wilson51@example.com,Detroit,MI,Gold,2024-07-31
+C00052,Sarah,Martinez,sarah.martinez52@example.com,Troy,MI,Bronze,2021-06-25
+C00053,Patricia,Brown,patricia.brown53@example.com,Chicago,il,Bronze,2021-07-11
+C00054,Elizabeth,Taylor,elizabeth.taylor54@example.com,Ann Arbor,MI,Gold,2021-12-03
+C00055,Michael,Rodriguez,michael.rodriguez55@example.com,Chicago,IL,Silver,2021-05-29
+C00056,Diego,Johnson,diego.johnson56@example.com,Troy,MI,Gold,2022-05-17
+C00057,Olu,Rodriguez,olu.rodriguez57@example.com,Detroit,MI,Bronze,2021-11-14
+C00058,Ahmed,Jones,ahmed.jones58@example.com,Grand Rapids,MI,Bronze,2024-02-27
+C00059,Joseph,Anderson,joseph.anderson59@example.com,Toledo,OH,Gold,2020-01-20
+C00060,Patricia,Williams,patricia.williams60@example.com,Royal Oak,MI,Gold,2020-03-14
+C00061,Olu,Kumar,olu.kumar61@example.com,Indianapolis,IN,Gold,2020-10-30
+C00062,Susan,Jones,susan.jones62@example.com,Detroit,MI,Silver,2022-01-16
+C00063,Diego,Johnson,diego.johnson63@example.com,Lansing,MI,Bronze,2023-10-28
+C00064,Linda,Brown,linda.brown64@example.com,Lansing,MI,Gold,2022-04-12
+C00065,Arjun,Jones,arjun.jones65@example.com,Ann Arbor,MI,Bronze,2024-06-26
+C00066,Fatima,Garcia,fatima.garcia66@example.com,Toledo,OH,Bronze,2021-01-02
+C00067,Sofia,Patel,sofia.patel67@example.com,Toledo,OH,Gold,2024-02-14
+C00068,Fatima,Davis,fatima.davis68@example.com,Grand Rapids,MI,Bronze,2024-05-31
+C00069,Carlos,Brown,carlos.brown69@example.com,Toledo,OH,Bronze,2022-08-21
+C00070,Linda,Miller,linda.miller70@example.com,Columbus,OH,Silver,2021-09-17
+C00071,Olu,Davis,olu.davis71@example.com,Ann Arbor,MI,Bronze,2023-09-13
+C00072,Michael,Nguyen,michael.nguyen72@example.com,Lansing,MI,Silver,2020-05-22
+C00073,Ahmed,Rodriguez,ahmed.rodriguez73@example.com,Lansing,MI,Gold,2022-11-09
+C00074,Richard,Anderson,,Lansing,MI,Bronze,2020-08-24
+C00075,Diego,Rodriguez,diego.rodriguez75@example.com,Royal Oak,MI,Gold,2021-06-27
+C00076,Mary,Brown,mary.brown76@example.com,Indianapolis,IN,Silver,2021-12-08
+C00077,Sofia,Patel,sofia.patel77@example.com,Toledo,OH,Gold,2022-11-13
+C00078,Patricia,Nguyen,patricia.nguyen78@example.com,Indianapolis,IN,Bronze,2021-06-05
+C00079,Mary,Chen,mary.chen79@example.com,Detroit,MI,Gold,2024-07-09
+C00080,Sarah,Miller,sarah.miller80@example.com,Lansing,MI,Silver,2020-05-23
+C00081,Mei,Patel,mei.patel81@example.com,Indianapolis,IN,Silver,2023-09-20
+C00082,Ama,Brown,ama.brown82@example.com,Grand Rapids,MI,Gold,2021-09-25
+C00083,Mei,Chen,mei.chen83@example.com,Lansing,MI,Silver,2023-11-28
+C00084,Elizabeth,Anderson,elizabeth.anderson84@example.com,Royal Oak,MI,Bronze,2022-05-11
+C00085,Mei,Nguyen,mei.nguyen85@example.com,Royal Oak,MI,Gold,2023-03-11
+C00086,Elizabeth,Nguyen,elizabeth.nguyen86@example.com,Chicago,IL,Bronze,2021-09-14
+C00087,Elizabeth,Miller,elizabeth.miller87@example.com,Toledo,OH,Gold,2023-05-27
+C00088,Wei,Patel,wei.patel88@example.com,Columbus,OH,Silver,2022-06-24
+C00089,Mei,Miller,mei.miller89@example.com,Chicago,IL,Silver,2024-06-13
+C00090,Diego,Garcia,diego.garcia90@example.com,Troy,MI,Silver,2022-11-21
+C00091,Mei,Taylor,mei.taylor91@example.com,Lansing,MI,Bronze,2024-08-03
+C00092,Ahmed,Davis,ahmed.davis92@example.com,Grand Rapids,MI,Bronze,2024-07-09
+C00093,Michael,Jones,michael.jones93@example.com,Detroit,MI,Bronze,2021-05-16
+C00094,Jessica,Taylor,jessica.taylor94@example.com,Troy,MI,Silver,2022-04-28
+C00095,Diego,Thomas,diego.thomas95@example.com,Ann Arbor,MI,Gold,2023-11-27
+C00096,Richard,Lopez,richard.lopez96@example.com,Toledo,OH,Bronze,2020-10-29
+C00097,Wei,Smith,wei.smith97@example.com,Troy,MI,Silver,2021-03-24
+C00098,Jennifer,Wilson,jennifer.wilson98@example.com,Columbus,OH,Bronze,2023-02-15
+C00099,Linda,Brown,linda.brown99@example.com,Columbus,OH,Bronze,2024-06-29
+C00100,Joseph,Wilson,joseph.wilson100@example.com,Chicago,IL,Gold,2021-10-11
+C00101,Ahmed,Kim,ahmed.kim101@example.com,Indianapolis,IN,Gold,2022-10-30
+C00102,Susan,Anderson,susan.anderson102@example.com,Columbus,OH,Bronze,2024-03-03
+C00103,Ama,Lopez,ama.lopez103@example.com,Columbus,OH,Silver,2024-03-19
+C00104,Linda,Rodriguez,linda.rodriguez104@example.com,Chicago,IL,Silver,2023-07-07
+C00105,Linda,Rodriguez,linda.rodriguez105@example.com,Columbus,OH,Bronze,2024-01-01
+C00106,Elizabeth,Davis,elizabeth.davis106@example.com,Grand Rapids,mi,Silver,2021-10-16
+C00107,Diego,Anderson,diego.anderson107@example.com,Troy,MI,Bronze,2020-11-04
+C00108,Linda,Nguyen,linda.nguyen108@example.com,Royal Oak,MI,Gold,2021-03-14
+C00109,John,Chen,john.chen109@example.com,Toledo,OH,Silver,2023-01-16
+C00110,Joseph,Chen,joseph.chen110@example.com,Detroit,MI,Bronze,2022-05-10
+C00111,Richard,Thomas,,Detroit,MI,Gold,2022-02-18
+C00112,Jessica,Smith,jessica.smith112@example.com,Lansing,MI,Silver,2024-03-23
+C00113,Richard,Chen,richard.chen113@example.com,Chicago,IL,Gold,2024-02-13
+C00114,Sarah,Taylor,sarah.taylor114@example.com,Ann Arbor,MI,Silver,2021-03-25
+C00115,David,Chen,david.chen115@example.com,Columbus,OH,Bronze,2022-03-07
+C00116,William,Nguyen,william.nguyen116@example.com,Royal Oak,MI,Silver,2020-09-18
+C00117,Arjun,Anderson,arjun.anderson117@example.com,Detroit,MI,Silver,2023-04-27
+C00118,Priya,Smith,priya.smith118@example.com,Troy,MI,Gold,2022-05-27
+C00119,Robert,Kim,robert.kim119@example.com,Royal Oak,MI,Bronze,2021-06-16
+C00120,Richard,Patel,richard.patel120@example.com,Ann Arbor,MI,Silver,2021-10-31
+C00121,William,Nguyen,william.nguyen121@example.com,Grand Rapids,MI,Silver,2021-05-31
+C00122,Olu,Williams,olu.williams122@example.com,Columbus,OH,Bronze,2024-03-14
+C00123,Sarah,Johnson,sarah.johnson123@example.com,Lansing,MI,Bronze,2023-08-24
+C00124,John,Johnson,john.johnson124@example.com,Detroit,MI,Bronze,2021-02-12
+C00125,Olu,Smith,olu.smith125@example.com,Indianapolis,IN,Bronze,2021-05-03
+C00126,Robert,Lopez,robert.lopez126@example.com,Troy,MI,Gold,2021-03-22
+C00127,Joseph,Rodriguez,joseph.rodriguez127@example.com,Lansing,MI,Bronze,2023-05-25
+C00128,Arjun,Brown,arjun.brown128@example.com,Royal Oak,MI,Silver,2020-08-09
+C00129,Priya,Smith,priya.smith129@example.com,Grand Rapids,MI,Gold,2023-10-19
+C00130,Lucia,Nguyen,lucia.nguyen130@example.com,Toledo,OH,Gold,2021-02-10
+C00131,John,Thomas,john.thomas131@example.com,Ann Arbor,MI,Bronze,2023-11-28
+C00132,Ahmed,Martinez,ahmed.martinez132@example.com,Indianapolis,IN,Bronze,2024-06-18
+C00133,Priya,Johnson,priya.johnson133@example.com,Lansing,MI,Gold,2022-05-27
+C00134,Mei,Kumar,mei.kumar134@example.com,Troy,MI,Gold,2023-08-19
+C00135,William,Smith,william.smith135@example.com,Toledo,OH,Silver,2020-08-04
+C00136,Susan,Kumar,susan.kumar136@example.com,Columbus,OH,Gold,2020-11-09
+C00137,Susan,Garcia,susan.garcia137@example.com,Chicago,IL,Gold,2021-07-07
+C00138,Arjun,Anderson,arjun.anderson138@example.com,Columbus,OH,Silver,2022-06-11
+C00139,Olu,Thomas,olu.thomas139@example.com,Grand Rapids,MI,Silver,2021-05-17
+C00140,Olu,Williams,olu.williams140@example.com,Grand Rapids,MI,Silver,2021-05-14
+C00141,Ahmed,Kim,ahmed.kim141@example.com,Indianapolis,IN,Gold,2023-09-30
+C00142,Richard,Patel,richard.patel142@example.com,Detroit,MI,Silver,2021-10-27
+C00143,Jennifer,Lopez,jennifer.lopez143@example.com,Ann Arbor,MI,Silver,2024-06-21
+C00144,David,Patel,david.patel144@example.com,Grand Rapids,MI,Gold,2023-12-07
+C00145,Diego,Rodriguez,diego.rodriguez145@example.com,Chicago,IL,Bronze,2022-11-24
+C00146,Michael,Williams,michael.williams146@example.com,Ann Arbor,MI,Gold,2022-04-12
+C00147,Jessica,Anderson,jessica.anderson147@example.com,Ann Arbor,MI,Gold,2022-09-02
+C00148,Wei,Lopez,,Columbus,OH,Bronze,2020-07-09
+C00149,Elizabeth,Davis,elizabeth.davis149@example.com,Toledo,OH,Gold,2021-05-13
+C00150,Elizabeth,Thomas,elizabeth.thomas150@example.com,Lansing,MI,Silver,2023-02-07
+C00151,Thomas,Kumar,thomas.kumar151@example.com,Toledo,OH,Gold,2023-02-01
+C00152,William,Kumar,william.kumar152@example.com,Columbus,OH,Silver,2021-09-19
+C00153,David,Davis,david.davis153@example.com,Troy,MI,Gold,2021-01-29
+C00154,William,Brown,william.brown154@example.com,Chicago,IL,Gold,2021-01-14
+C00155,Michael,Miller,michael.miller155@example.com,Columbus,OH,Silver,2024-01-23
+C00156,Priya,Wilson,priya.wilson156@example.com,Indianapolis,IN,Silver,2020-07-24
+C00157,Olu,Miller,olu.miller157@example.com,Grand Rapids,MI,Bronze,2022-01-09
+C00158,Jennifer,Martinez,jennifer.martinez158@example.com,Detroit,MI,Gold,2022-12-29
+C00159,Robert,Rodriguez,robert.rodriguez159@example.com,Detroit,mi,Bronze,2023-02-07
+C00160,Elizabeth,Jones,elizabeth.jones160@example.com,Columbus,OH,Bronze,2020-01-26
+C00161,Priya,Martinez,priya.martinez161@example.com,Columbus,OH,Silver,2022-06-21
+C00162,William,Garcia,william.garcia162@example.com,Detroit,MI,Silver,2022-09-05
+C00163,Patricia,Williams,patricia.williams163@example.com,Toledo,OH,Silver,2020-05-31
+C00164,Priya,Johnson,priya.johnson164@example.com,Royal Oak,MI,Bronze,2024-07-19
+C00165,Priya,Martinez,priya.martinez165@example.com,Troy,MI,Bronze,2020-08-30
+C00166,Sarah,Chen,sarah.chen166@example.com,Indianapolis,IN,Gold,2024-06-07
+C00167,Arjun,Davis,arjun.davis167@example.com,Chicago,IL,Silver,2022-07-11
+C00168,Lucia,Kim,lucia.kim168@example.com,Grand Rapids,MI,Gold,2022-05-28
+C00169,Elizabeth,Thomas,elizabeth.thomas169@example.com,Indianapolis,IN,Bronze,2023-06-02
+C00170,Sofia,Brown,sofia.brown170@example.com,Ann Arbor,MI,Gold,2021-03-08
+C00171,David,Williams,david.williams171@example.com,Royal Oak,MI,Bronze,2020-12-21
+C00172,Sarah,Williams,sarah.williams172@example.com,Royal Oak,MI,Bronze,2022-04-16
+C00173,Joseph,Taylor,joseph.taylor173@example.com,Columbus,OH,Silver,2020-03-07
+C00174,Linda,Martinez,linda.martinez174@example.com,Grand Rapids,MI,Gold,2022-07-18
+C00175,John,Davis,john.davis175@example.com,Grand Rapids,MI,Gold,2023-04-22
+C00176,Mei,Miller,mei.miller176@example.com,Toledo,OH,Bronze,2023-01-20
+C00177,Linda,Jones,linda.jones177@example.com,Grand Rapids,MI,Bronze,2020-05-26
+C00178,Mary,Garcia,mary.garcia178@example.com,Grand Rapids,MI,Gold,2024-03-13
+C00179,Olu,Thomas,olu.thomas179@example.com,Grand Rapids,MI,Silver,2020-09-11
+C00180,Joseph,Martinez,joseph.martinez180@example.com,Toledo,OH,Silver,2022-10-21
+C00181,Sarah,Lopez,sarah.lopez181@example.com,Columbus,OH,Bronze,2023-05-09
+C00182,Mary,Chen,mary.chen182@example.com,Lansing,MI,Gold,2021-05-27
+C00183,James,Williams,james.williams183@example.com,Ann Arbor,MI,Gold,2023-03-24
+C00184,Priya,Smith,priya.smith184@example.com,Grand Rapids,MI,Gold,2020-03-23
+C00185,Ahmed,Garcia,,Columbus,OH,Gold,2023-08-27
+C00186,Joseph,Rodriguez,joseph.rodriguez186@example.com,Royal Oak,MI,Gold,2022-06-11
+C00187,Wei,Lopez,wei.lopez187@example.com,Troy,MI,Silver,2021-12-13
+C00188,Susan,Patel,susan.patel188@example.com,Lansing,MI,Gold,2020-08-02
+C00189,Ama,Garcia,ama.garcia189@example.com,Lansing,MI,Silver,2023-11-21
+C00190,Jessica,Martinez,jessica.martinez190@example.com,Toledo,OH,Gold,2020-03-16
+C00191,Joseph,Williams,joseph.williams191@example.com,Lansing,MI,Silver,2021-10-24
+C00192,Patricia,Nguyen,patricia.nguyen192@example.com,Chicago,IL,Bronze,2023-09-08
+C00193,Ama,Anderson,ama.anderson193@example.com,Columbus,OH,Silver,2020-04-21
+C00194,Michael,Wilson,michael.wilson194@example.com,Lansing,MI,Gold,2024-03-29
+C00195,Jessica,Kim,jessica.kim195@example.com,Detroit,MI,Bronze,2021-06-30
+C00196,Sarah,Jones,sarah.jones196@example.com,Grand Rapids,MI,Silver,2023-12-01
+C00197,Jessica,Brown,jessica.brown197@example.com,Detroit,MI,Gold,2023-05-31
+C00198,Fatima,Davis,fatima.davis198@example.com,Royal Oak,MI,Silver,2023-02-02
+C00199,James,Anderson,james.anderson199@example.com,Toledo,OH,Bronze,2021-04-05
+C00200,Olu,Brown,olu.brown200@example.com,Columbus,OH,Bronze,2023-08-19
+C00201,Olu,Jones,olu.jones201@example.com,Columbus,OH,Gold,2021-08-20
+C00202,Thomas,Rodriguez,thomas.rodriguez202@example.com,Toledo,OH,Silver,2022-08-25
+C00203,Linda,Kim,linda.kim203@example.com,Chicago,IL,Bronze,2022-02-24
+C00204,Michael,Taylor,michael.taylor204@example.com,Chicago,IL,Gold,2020-10-06
+C00205,Ama,Williams,ama.williams205@example.com,Grand Rapids,MI,Silver,2021-11-27
+C00206,Lucia,Wilson,lucia.wilson206@example.com,Grand Rapids,MI,Bronze,2021-08-02
+C00207,Sofia,Martinez,sofia.martinez207@example.com,Indianapolis,IN,Gold,2023-09-13
+C00208,Jessica,Jones,jessica.jones208@example.com,Columbus,OH,Gold,2022-09-18
+C00209,Barbara,Patel,barbara.patel209@example.com,Chicago,IL,Gold,2022-02-11
+C00210,Joseph,Patel,joseph.patel210@example.com,Ann Arbor,MI,Gold,2021-05-04
+C00211,Priya,Nguyen,priya.nguyen211@example.com,Ann Arbor,MI,Silver,2020-03-30
+C00212,William,Lopez,william.lopez212@example.com,Toledo,oh,Silver,2023-09-21
+C00213,Fatima,Jones,fatima.jones213@example.com,Columbus,OH,Bronze,2020-09-15
+C00214,Thomas,Thomas,thomas.thomas214@example.com,Lansing,MI,Bronze,2022-06-20
+C00215,Patricia,Wilson,patricia.wilson215@example.com,Columbus,OH,Bronze,2024-01-19
+C00216,Robert,Chen,robert.chen216@example.com,Royal Oak,MI,Bronze,2022-08-19
+C00217,Fatima,Rodriguez,fatima.rodriguez217@example.com,Lansing,MI,Gold,2023-11-19
+C00218,Richard,Williams,richard.williams218@example.com,Lansing,MI,Gold,2022-12-28
+C00219,Richard,Patel,richard.patel219@example.com,Columbus,OH,Gold,2020-03-14
+C00220,Arjun,Williams,arjun.williams220@example.com,Ann Arbor,MI,Gold,2023-11-02
+C00221,Lucia,Martinez,lucia.martinez221@example.com,Ann Arbor,MI,Gold,2020-07-04
+C00222,Susan,Brown,,Troy,MI,Silver,2020-12-06
+C00223,Carlos,Martinez,carlos.martinez223@example.com,Detroit,MI,Bronze,2021-10-26
+C00224,Fatima,Johnson,fatima.johnson224@example.com,Grand Rapids,MI,Silver,2022-02-06
+C00225,Susan,Jones,susan.jones225@example.com,Ann Arbor,MI,Gold,2022-04-23
+C00226,Priya,Garcia,priya.garcia226@example.com,Royal Oak,MI,Bronze,2020-06-10
+C00227,Arjun,Nguyen,arjun.nguyen227@example.com,Indianapolis,IN,Gold,2021-05-08
+C00228,Jessica,Thomas,jessica.thomas228@example.com,Royal Oak,MI,Bronze,2022-08-02
+C00229,Wei,Rodriguez,wei.rodriguez229@example.com,Columbus,OH,Silver,2023-09-27
+C00230,James,Kim,james.kim230@example.com,Grand Rapids,MI,Gold,2023-01-24
+C00231,Jennifer,Williams,jennifer.williams231@example.com,Columbus,OH,Silver,2023-04-18
+C00232,Elizabeth,Chen,elizabeth.chen232@example.com,Grand Rapids,MI,Silver,2021-09-10
+C00233,Michael,Nguyen,michael.nguyen233@example.com,Columbus,OH,Bronze,2021-04-30
+C00234,Richard,Thomas,richard.thomas234@example.com,Lansing,MI,Gold,2021-08-28
+C00235,Carlos,Martinez,carlos.martinez235@example.com,Detroit,MI,Gold,2022-03-21
+C00236,David,Smith,david.smith236@example.com,Indianapolis,IN,Gold,2024-05-12
+C00237,Sofia,Johnson,sofia.johnson237@example.com,Indianapolis,IN,Gold,2022-10-14
+C00238,Olu,Martinez,olu.martinez238@example.com,Ann Arbor,MI,Gold,2024-06-30
+C00239,Barbara,Davis,barbara.davis239@example.com,Ann Arbor,MI,Gold,2021-05-28
+C00240,Mei,Jones,mei.jones240@example.com,Troy,MI,Gold,2023-08-16
+C00241,Mary,Martinez,mary.martinez241@example.com,Columbus,OH,Bronze,2023-04-01
+C00242,Barbara,Jones,barbara.jones242@example.com,Troy,MI,Silver,2021-10-31
+C00243,Sofia,Chen,sofia.chen243@example.com,Royal Oak,MI,Bronze,2020-09-27
+C00244,Fatima,Anderson,fatima.anderson244@example.com,Lansing,MI,Gold,2022-10-24
+C00245,Lucia,Rodriguez,lucia.rodriguez245@example.com,Royal Oak,MI,Silver,2024-08-15
+C00246,Jessica,Martinez,jessica.martinez246@example.com,Lansing,MI,Bronze,2022-08-17
+C00247,John,Jones,john.jones247@example.com,Ann Arbor,MI,Gold,2024-01-23
+C00248,Mei,Nguyen,mei.nguyen248@example.com,Chicago,IL,Silver,2020-07-03
+C00249,Fatima,Nguyen,fatima.nguyen249@example.com,Detroit,MI,Silver,2023-01-03
+C00250,Patricia,Kim,patricia.kim250@example.com,Lansing,MI,Gold,2024-03-13
+C00251,Mei,Rodriguez,mei.rodriguez251@example.com,Indianapolis,IN,Silver,2024-08-11
+C00252,Wei,Kumar,wei.kumar252@example.com,Troy,MI,Gold,2021-04-23
+C00253,Jessica,Smith,jessica.smith253@example.com,Indianapolis,IN,Gold,2021-11-02
+C00254,Lucia,Taylor,lucia.taylor254@example.com,Ann Arbor,MI,Gold,2020-05-09
+C00255,Wei,Kim,wei.kim255@example.com,Grand Rapids,MI,Gold,2022-04-16
+C00256,Patricia,Jones,patricia.jones256@example.com,Detroit,MI,Bronze,2021-09-15
+C00257,Jessica,Brown,jessica.brown257@example.com,Troy,MI,Bronze,2023-01-05
+C00258,Robert,Nguyen,robert.nguyen258@example.com,Columbus,OH,Silver,2023-10-05
+C00259,Sofia,Anderson,,Toledo,OH,Gold,2024-02-29
+C00260,Sofia,Jones,sofia.jones260@example.com,Toledo,OH,Gold,2020-07-21
+C00261,Olu,Lopez,olu.lopez261@example.com,Indianapolis,IN,Silver,2021-07-26
+C00262,Mary,Kumar,mary.kumar262@example.com,Ann Arbor,MI,Silver,2022-06-29
+C00263,Linda,Kumar,linda.kumar263@example.com,Troy,MI,Gold,2022-01-22
+C00264,Sarah,Kumar,sarah.kumar264@example.com,Detroit,MI,Silver,2021-07-19
+C00265,Michael,Brown,michael.brown265@example.com,Columbus,oh,Bronze,2023-09-19
+C00266,Michael,Taylor,michael.taylor266@example.com,Detroit,MI,Bronze,2024-05-30
+C00267,William,Davis,william.davis267@example.com,Royal Oak,MI,Gold,2021-02-24
+C00268,John,Anderson,john.anderson268@example.com,Ann Arbor,MI,Gold,2021-03-18
+C00269,Olu,Davis,olu.davis269@example.com,Lansing,MI,Bronze,2024-06-03
+C00270,Diego,Taylor,diego.taylor270@example.com,Detroit,MI,Silver,2020-10-23
+C00271,Robert,Anderson,robert.anderson271@example.com,Grand Rapids,MI,Bronze,2020-08-13
+C00272,Mei,Smith,mei.smith272@example.com,Royal Oak,MI,Bronze,2022-01-03
+C00273,Fatima,Davis,fatima.davis273@example.com,Indianapolis,IN,Silver,2020-02-02
+C00274,Jennifer,Rodriguez,jennifer.rodriguez274@example.com,Detroit,MI,Bronze,2024-02-28
+C00275,Susan,Wilson,susan.wilson275@example.com,Troy,MI,Gold,2020-05-10
+C00276,Jessica,Kim,jessica.kim276@example.com,Lansing,MI,Gold,2023-04-30
+C00277,Patricia,Kim,patricia.kim277@example.com,Chicago,IL,Bronze,2023-06-13
+C00278,Mary,Wilson,mary.wilson278@example.com,Grand Rapids,MI,Silver,2023-08-10
+C00279,James,Johnson,james.johnson279@example.com,Columbus,OH,Silver,2022-05-23
+C00280,Mei,Brown,mei.brown280@example.com,Columbus,OH,Gold,2022-06-27
+C00281,John,Williams,john.williams281@example.com,Lansing,MI,Gold,2020-10-30
+C00282,John,Jones,john.jones282@example.com,Grand Rapids,MI,Gold,2023-07-20
+C00283,Priya,Anderson,priya.anderson283@example.com,Lansing,MI,Silver,2023-05-08
+C00284,Thomas,Martinez,thomas.martinez284@example.com,Columbus,OH,Gold,2023-05-24
+C00285,Susan,Brown,susan.brown285@example.com,Troy,MI,Gold,2023-08-26
+C00286,Diego,Anderson,diego.anderson286@example.com,Ann Arbor,MI,Silver,2022-07-13
+C00287,Diego,Davis,diego.davis287@example.com,Toledo,OH,Silver,2024-08-21
+C00288,Joseph,Nguyen,joseph.nguyen288@example.com,Toledo,OH,Gold,2020-07-13
+C00289,William,Chen,william.chen289@example.com,Lansing,MI,Gold,2021-06-06
+C00290,Barbara,Jones,barbara.jones290@example.com,Columbus,OH,Bronze,2020-07-05
+C00291,Olu,Williams,olu.williams291@example.com,Troy,MI,Silver,2020-07-16
+C00292,Sofia,Kumar,sofia.kumar292@example.com,Royal Oak,MI,Gold,2020-05-02
+C00293,Priya,Anderson,priya.anderson293@example.com,Chicago,IL,Silver,2023-10-04
+C00294,Patricia,Chen,patricia.chen294@example.com,Lansing,MI,Gold,2024-03-16
+C00295,Susan,Johnson,susan.johnson295@example.com,Grand Rapids,MI,Gold,2021-10-01
+C00296,Barbara,Brown,,Indianapolis,IN,Gold,2021-03-11
+C00297,Robert,Lopez,robert.lopez297@example.com,Ann Arbor,MI,Bronze,2021-12-18
+C00298,Ama,Anderson,ama.anderson298@example.com,Lansing,MI,Bronze,2024-04-10
+C00299,David,Thomas,david.thomas299@example.com,Ann Arbor,MI,Silver,2023-02-22
+C00300,Ahmed,Taylor,ahmed.taylor300@example.com,Indianapolis,IN,Gold,2023-08-09
+C00301,Sarah,Smith,sarah.smith301@example.com,Indianapolis,IN,Gold,2024-08-25
+C00302,Carlos,Rodriguez,carlos.rodriguez302@example.com,Detroit,MI,Bronze,2021-07-13
+C00303,Carlos,Martinez,carlos.martinez303@example.com,Lansing,MI,Silver,2020-01-13
+C00304,Jennifer,Jones,jennifer.jones304@example.com,Indianapolis,IN,Gold,2022-03-31
+C00305,John,Jones,john.jones305@example.com,Detroit,MI,Bronze,2024-03-08
+C00306,Thomas,Miller,thomas.miller306@example.com,Toledo,OH,Silver,2022-07-18
+C00307,William,Garcia,william.garcia307@example.com,Lansing,MI,Silver,2024-01-17
+C00308,William,Thomas,william.thomas308@example.com,Indianapolis,IN,Bronze,2020-04-17
+C00309,Robert,Garcia,robert.garcia309@example.com,Indianapolis,IN,Bronze,2023-10-12
+C00310,John,Rodriguez,john.rodriguez310@example.com,Columbus,OH,Gold,2022-05-18
+C00311,Jessica,Taylor,jessica.taylor311@example.com,Columbus,OH,Silver,2021-07-13
+C00312,Michael,Wilson,michael.wilson312@example.com,Troy,MI,Silver,2022-05-30
+C00313,Patricia,Martinez,patricia.martinez313@example.com,Indianapolis,IN,Silver,2022-12-15
+C00314,Mei,Martinez,mei.martinez314@example.com,Detroit,MI,Bronze,2022-03-20
+C00315,Arjun,Johnson,arjun.johnson315@example.com,Detroit,MI,Bronze,2021-09-09
+C00316,Michael,Jones,michael.jones316@example.com,Grand Rapids,MI,Silver,2021-11-02
+C00317,Patricia,Smith,patricia.smith317@example.com,Columbus,OH,Gold,2022-05-31
+C00318,Jennifer,Jones,jennifer.jones318@example.com,Toledo,oh,Gold,2023-12-12
+C00319,Linda,Wilson,linda.wilson319@example.com,Chicago,IL,Gold,2024-07-09
+C00320,Barbara,Williams,barbara.williams320@example.com,Toledo,OH,Gold,2020-03-27
+C00321,Susan,Smith,susan.smith321@example.com,Columbus,OH,Bronze,2021-10-03
+C00322,Priya,Chen,priya.chen322@example.com,Indianapolis,IN,Silver,2023-12-24
+C00323,Wei,Chen,wei.chen323@example.com,Grand Rapids,MI,Bronze,2022-04-09
+C00324,James,Patel,james.patel324@example.com,Royal Oak,MI,Gold,2022-07-31
+C00325,Olu,Kumar,olu.kumar325@example.com,Troy,MI,Silver,2020-08-04
+C00326,Linda,Chen,linda.chen326@example.com,Indianapolis,IN,Silver,2022-12-09
+C00327,John,Nguyen,john.nguyen327@example.com,Grand Rapids,MI,Gold,2021-11-26
+C00328,Linda,Patel,linda.patel328@example.com,Royal Oak,MI,Bronze,2022-11-11
+C00329,Wei,Brown,wei.brown329@example.com,Chicago,IL,Gold,2021-02-01
+C00330,Diego,Kumar,diego.kumar330@example.com,Lansing,MI,Gold,2024-08-04
+C00331,Wei,Jones,wei.jones331@example.com,Ann Arbor,MI,Bronze,2020-10-26
+C00332,David,Miller,david.miller332@example.com,Royal Oak,MI,Gold,2020-11-09
+C00333,Ahmed,Williams,,Royal Oak,MI,Gold,2022-10-08
+C00334,Joseph,Thomas,joseph.thomas334@example.com,Indianapolis,IN,Silver,2023-10-26
+C00335,Lucia,Thomas,lucia.thomas335@example.com,Indianapolis,IN,Silver,2023-07-08
+C00336,William,Jones,william.jones336@example.com,Columbus,OH,Bronze,2022-08-18
+C00337,Joseph,Martinez,joseph.martinez337@example.com,Grand Rapids,MI,Gold,2020-04-25
+C00338,Barbara,Wilson,barbara.wilson338@example.com,Troy,MI,Silver,2022-08-03
+C00339,Joseph,Johnson,joseph.johnson339@example.com,Detroit,MI,Silver,2021-08-10
+C00340,John,Williams,john.williams340@example.com,Indianapolis,IN,Gold,2022-11-04
+C00341,Richard,Kim,richard.kim341@example.com,Indianapolis,IN,Gold,2024-06-09
+C00342,Sofia,Johnson,sofia.johnson342@example.com,Columbus,OH,Gold,2023-08-27
+C00343,Michael,Patel,michael.patel343@example.com,Indianapolis,IN,Silver,2022-10-23
+C00344,Robert,Johnson,robert.johnson344@example.com,Columbus,OH,Bronze,2024-07-18
+C00345,Diego,Patel,diego.patel345@example.com,Troy,MI,Gold,2023-08-16
+C00346,Jennifer,Johnson,jennifer.johnson346@example.com,Ann Arbor,MI,Gold,2022-06-15
+C00347,Joseph,Wilson,joseph.wilson347@example.com,Chicago,IL,Gold,2020-11-21
+C00348,Barbara,Kumar,barbara.kumar348@example.com,Grand Rapids,MI,Silver,2022-04-17
+C00349,Ahmed,Patel,ahmed.patel349@example.com,Indianapolis,IN,Bronze,2024-06-04
+C00350,Wei,Patel,wei.patel350@example.com,Troy,MI,Silver,2020-07-12
+C00351,Sarah,Nguyen,sarah.nguyen351@example.com,Grand Rapids,MI,Silver,2024-01-22
+C00352,Ama,Taylor,ama.taylor352@example.com,Royal Oak,MI,Silver,2020-06-15
+C00353,Priya,Jones,priya.jones353@example.com,Lansing,MI,Silver,2023-09-05
+C00354,Carlos,Nguyen,carlos.nguyen354@example.com,Royal Oak,MI,Gold,2023-12-22
+C00355,John,Martinez,john.martinez355@example.com,Chicago,IL,Silver,2023-08-10
+C00356,Fatima,Patel,fatima.patel356@example.com,Royal Oak,MI,Gold,2023-12-10
+C00357,Olu,Wilson,olu.wilson357@example.com,Troy,MI,Gold,2023-10-05
+C00358,Susan,Wilson,susan.wilson358@example.com,Lansing,MI,Bronze,2022-01-12
+C00359,Elizabeth,Garcia,elizabeth.garcia359@example.com,Ann Arbor,MI,Silver,2024-04-18
+C00360,Jessica,Miller,jessica.miller360@example.com,Ann Arbor,MI,Bronze,2020-11-13
+C00361,John,Martinez,john.martinez361@example.com,Troy,MI,Gold,2024-04-27
+C00362,Sarah,Wilson,sarah.wilson362@example.com,Detroit,MI,Gold,2021-11-20
+C00363,Diego,Taylor,diego.taylor363@example.com,Royal Oak,MI,Gold,2022-02-10
+C00364,Robert,Garcia,robert.garcia364@example.com,Royal Oak,MI,Gold,2024-04-28
+C00365,Arjun,Garcia,arjun.garcia365@example.com,Columbus,OH,Bronze,2022-04-21
+C00366,Barbara,Davis,barbara.davis366@example.com,Columbus,OH,Gold,2021-08-06
+C00367,Ahmed,Kim,ahmed.kim367@example.com,Ann Arbor,MI,Gold,2021-05-04
+C00368,Elizabeth,Lopez,elizabeth.lopez368@example.com,Ann Arbor,MI,Silver,2023-10-21
+C00369,Priya,Kim,priya.kim369@example.com,Columbus,OH,Silver,2024-05-12
+C00370,Richard,Wilson,,Chicago,IL,Silver,2020-11-27
+C00371,Olu,Miller,olu.miller371@example.com,Indianapolis,in,Bronze,2021-05-27
+C00372,Mary,Lopez,mary.lopez372@example.com,Lansing,MI,Gold,2020-07-29
+C00373,Carlos,Wilson,carlos.wilson373@example.com,Troy,MI,Silver,2020-06-20
+C00374,Ahmed,Garcia,ahmed.garcia374@example.com,Grand Rapids,MI,Silver,2022-11-17
+C00375,Robert,Chen,robert.chen375@example.com,Troy,MI,Bronze,2024-07-30
+C00376,Joseph,Kumar,joseph.kumar376@example.com,Detroit,MI,Silver,2020-04-19
+C00377,Richard,Wilson,richard.wilson377@example.com,Lansing,MI,Bronze,2022-03-01
+C00378,John,Kumar,john.kumar378@example.com,Ann Arbor,MI,Bronze,2021-10-14
+C00379,Lucia,Brown,lucia.brown379@example.com,Lansing,MI,Bronze,2020-10-08
+C00380,Mary,Martinez,mary.martinez380@example.com,Columbus,OH,Gold,2020-10-11
+C00381,Ahmed,Lopez,ahmed.lopez381@example.com,Columbus,OH,Gold,2020-01-11
+C00382,Diego,Williams,diego.williams382@example.com,Detroit,MI,Silver,2021-03-17
+C00383,Olu,Jones,olu.jones383@example.com,Chicago,IL,Gold,2023-05-31
+C00384,Thomas,Chen,thomas.chen384@example.com,Troy,MI,Silver,2021-05-01
+C00385,Elizabeth,Brown,elizabeth.brown385@example.com,Detroit,MI,Bronze,2022-05-09
+C00386,Wei,Taylor,wei.taylor386@example.com,Columbus,OH,Bronze,2020-08-15
+C00387,Olu,Lopez,olu.lopez387@example.com,Indianapolis,IN,Gold,2020-02-03
+C00388,Wei,Wilson,wei.wilson388@example.com,Indianapolis,IN,Bronze,2024-01-11
+C00389,Robert,Martinez,robert.martinez389@example.com,Toledo,OH,Bronze,2023-06-13
+C00390,Barbara,Davis,barbara.davis390@example.com,Indianapolis,IN,Silver,2021-01-18
+C00391,Mei,Williams,mei.williams391@example.com,Chicago,IL,Silver,2020-05-18
+C00392,Thomas,Anderson,thomas.anderson392@example.com,Chicago,IL,Gold,2023-02-08
+C00393,James,Nguyen,james.nguyen393@example.com,Columbus,OH,Bronze,2023-07-25
+C00394,Richard,Kumar,richard.kumar394@example.com,Grand Rapids,MI,Gold,2020-02-03
+C00395,Barbara,Williams,barbara.williams395@example.com,Lansing,MI,Bronze,2024-02-10
+C00396,Mei,Brown,mei.brown396@example.com,Indianapolis,IN,Gold,2024-03-29
+C00397,William,Jones,william.jones397@example.com,Detroit,MI,Silver,2023-01-23
+C00398,William,Garcia,william.garcia398@example.com,Columbus,OH,Gold,2022-09-07
+C00399,Wei,Garcia,wei.garcia399@example.com,Royal Oak,MI,Bronze,2024-01-06
+C00400,Ahmed,Kim,ahmed.kim400@example.com,Detroit,MI,Silver,2021-02-16
+C00401,Mary,Miller,mary.miller401@example.com,Detroit,MI,Silver,2021-09-27
+C00402,Thomas,Nguyen,thomas.nguyen402@example.com,Chicago,IL,Silver,2021-06-02
+C00403,Mary,Miller,mary.miller403@example.com,Grand Rapids,MI,Silver,2024-05-18
+C00404,Mary,Patel,mary.patel404@example.com,Grand Rapids,MI,Bronze,2024-06-25
+C00405,Barbara,Chen,barbara.chen405@example.com,Toledo,OH,Gold,2022-06-19
+C00406,Diego,Nguyen,diego.nguyen406@example.com,Lansing,MI,Bronze,2022-10-13
+C00407,Carlos,Lopez,,Lansing,MI,Gold,2021-06-30
+C00408,Fatima,Williams,fatima.williams408@example.com,Toledo,OH,Bronze,2022-05-31
+C00409,Arjun,Garcia,arjun.garcia409@example.com,Chicago,IL,Silver,2021-10-19
+C00410,Patricia,Williams,patricia.williams410@example.com,Lansing,MI,Gold,2021-08-28
+C00411,Elizabeth,Kim,elizabeth.kim411@example.com,Indianapolis,IN,Gold,2022-05-22
+C00412,Jennifer,Kim,jennifer.kim412@example.com,Lansing,MI,Silver,2020-03-27
+C00413,Sofia,Kumar,sofia.kumar413@example.com,Indianapolis,IN,Silver,2021-07-16
+C00414,Wei,Johnson,wei.johnson414@example.com,Troy,MI,Gold,2023-07-29
+C00415,Richard,Kumar,richard.kumar415@example.com,Chicago,IL,Gold,2023-10-23
+C00416,Jennifer,Smith,jennifer.smith416@example.com,Royal Oak,MI,Gold,2023-10-20
+C00417,Fatima,Kim,fatima.kim417@example.com,Detroit,MI,Bronze,2020-05-17
+C00418,Linda,Kumar,linda.kumar418@example.com,Lansing,MI,Silver,2023-03-07
+C00419,Mary,Taylor,mary.taylor419@example.com,Royal Oak,MI,Gold,2022-07-10
+C00420,Barbara,Kumar,barbara.kumar420@example.com,Columbus,OH,Bronze,2023-03-21
+C00421,Robert,Wilson,robert.wilson421@example.com,Lansing,MI,Silver,2021-10-05
+C00422,Wei,Rodriguez,wei.rodriguez422@example.com,Ann Arbor,MI,Bronze,2020-02-23
+C00423,Sofia,Garcia,sofia.garcia423@example.com,Columbus,OH,Gold,2022-03-03
+C00424,Lucia,Anderson,lucia.anderson424@example.com,Troy,mi,Silver,2024-05-06
+C00425,David,Kim,david.kim425@example.com,Ann Arbor,MI,Gold,2021-08-07
+C00426,Carlos,Lopez,carlos.lopez426@example.com,Ann Arbor,MI,Bronze,2020-10-04
+C00427,Ama,Williams,ama.williams427@example.com,Columbus,OH,Bronze,2023-12-31
+C00428,Joseph,Williams,joseph.williams428@example.com,Lansing,MI,Gold,2021-12-12
+C00429,Carlos,Williams,carlos.williams429@example.com,Chicago,IL,Gold,2021-08-17
+C00430,Diego,Martinez,diego.martinez430@example.com,Royal Oak,MI,Gold,2023-12-24
+C00431,Lucia,Garcia,lucia.garcia431@example.com,Lansing,MI,Gold,2021-04-04
+C00432,Patricia,Miller,patricia.miller432@example.com,Royal Oak,MI,Bronze,2024-06-06
+C00433,Jessica,Smith,jessica.smith433@example.com,Lansing,MI,Gold,2023-03-18
+C00434,Barbara,Kim,barbara.kim434@example.com,Chicago,IL,Bronze,2023-06-07
+C00435,Diego,Williams,diego.williams435@example.com,Troy,MI,Silver,2022-03-26
+C00436,Carlos,Lopez,carlos.lopez436@example.com,Chicago,IL,Silver,2024-04-24
+C00437,Susan,Thomas,susan.thomas437@example.com,Troy,MI,Bronze,2021-10-11
+C00438,Wei,Williams,wei.williams438@example.com,Columbus,OH,Silver,2023-10-24
+C00439,Thomas,Kumar,thomas.kumar439@example.com,Royal Oak,MI,Gold,2023-08-03
+C00440,Priya,Garcia,priya.garcia440@example.com,Royal Oak,MI,Silver,2022-10-26
+C00441,Lucia,Johnson,lucia.johnson441@example.com,Troy,MI,Gold,2020-11-09
+C00442,Elizabeth,Garcia,elizabeth.garcia442@example.com,Royal Oak,MI,Silver,2023-12-23
+C00443,Linda,Kumar,linda.kumar443@example.com,Chicago,IL,Silver,2020-06-10
+C00444,David,Miller,,Chicago,IL,Silver,2020-09-13
+C00445,Wei,Martinez,wei.martinez445@example.com,Indianapolis,IN,Gold,2020-07-10
+C00446,Thomas,Garcia,thomas.garcia446@example.com,Indianapolis,IN,Gold,2020-11-11
+C00447,Jennifer,Taylor,jennifer.taylor447@example.com,Indianapolis,IN,Silver,2023-02-28
+C00448,Mary,Smith,mary.smith448@example.com,Troy,MI,Bronze,2023-08-06
+C00449,Ahmed,Thomas,ahmed.thomas449@example.com,Grand Rapids,MI,Gold,2021-03-07
+C00450,Ahmed,Thomas,ahmed.thomas450@example.com,Toledo,OH,Gold,2023-08-01
+C00451,James,Lopez,james.lopez451@example.com,Chicago,IL,Silver,2023-08-07
+C00452,Elizabeth,Lopez,elizabeth.lopez452@example.com,Ann Arbor,MI,Gold,2022-04-11
+C00453,Elizabeth,Kim,elizabeth.kim453@example.com,Troy,MI,Gold,2020-05-02
+C00454,Jennifer,Kim,jennifer.kim454@example.com,Toledo,OH,Silver,2022-08-09
+C00455,Michael,Patel,michael.patel455@example.com,Indianapolis,IN,Bronze,2021-10-02
+C00456,Ama,Patel,ama.patel456@example.com,Lansing,MI,Silver,2020-09-24
+C00457,Ahmed,Kumar,ahmed.kumar457@example.com,Chicago,IL,Gold,2020-08-05
+C00458,William,Davis,william.davis458@example.com,Columbus,OH,Bronze,2021-07-01
+C00459,Joseph,Davis,joseph.davis459@example.com,Royal Oak,MI,Bronze,2020-04-13
+C00460,Elizabeth,Nguyen,elizabeth.nguyen460@example.com,Indianapolis,IN,Silver,2021-05-23
+C00461,Ama,Garcia,ama.garcia461@example.com,Lansing,MI,Gold,2024-01-16
+C00462,William,Miller,william.miller462@example.com,Royal Oak,MI,Silver,2022-11-20
+C00463,Joseph,Lopez,joseph.lopez463@example.com,Grand Rapids,MI,Silver,2020-02-17
+C00464,John,Nguyen,john.nguyen464@example.com,Chicago,IL,Silver,2021-05-08
+C00465,Michael,Thomas,michael.thomas465@example.com,Lansing,MI,Bronze,2020-04-13
+C00466,Elizabeth,Lopez,elizabeth.lopez466@example.com,Indianapolis,IN,Gold,2023-10-09
+C00467,Jessica,Martinez,jessica.martinez467@example.com,Chicago,IL,Bronze,2020-08-08
+C00468,Susan,Jones,susan.jones468@example.com,Grand Rapids,MI,Gold,2022-01-19
+C00469,Ahmed,Nguyen,ahmed.nguyen469@example.com,Lansing,MI,Bronze,2022-03-31
+C00470,Mary,Thomas,mary.thomas470@example.com,Chicago,IL,Bronze,2022-01-12
+C00471,Sarah,Martinez,sarah.martinez471@example.com,Troy,MI,Silver,2022-10-29
+C00472,Joseph,Anderson,joseph.anderson472@example.com,Grand Rapids,MI,Gold,2023-10-25
+C00473,Arjun,Brown,arjun.brown473@example.com,Royal Oak,MI,Bronze,2022-03-17
+C00474,Barbara,Patel,barbara.patel474@example.com,Chicago,IL,Silver,2024-03-26
+C00475,Robert,Miller,robert.miller475@example.com,Indianapolis,IN,Gold,2022-04-02
+C00476,Thomas,Johnson,thomas.johnson476@example.com,Detroit,MI,Bronze,2020-10-07
+C00477,Carlos,Patel,carlos.patel477@example.com,Columbus,oh,Gold,2022-07-24
+C00478,Robert,Taylor,robert.taylor478@example.com,Chicago,IL,Bronze,2021-11-02
+C00479,Lucia,Taylor,lucia.taylor479@example.com,Lansing,MI,Bronze,2022-03-15
+C00480,Arjun,Martinez,arjun.martinez480@example.com,Indianapolis,IN,Silver,2022-11-04
+C00481,Olu,Wilson,,Chicago,IL,Silver,2023-12-22
+C00482,Priya,Martinez,priya.martinez482@example.com,Columbus,OH,Bronze,2022-01-24
+C00483,William,Brown,william.brown483@example.com,Toledo,OH,Gold,2021-09-22
+C00484,Fatima,Smith,fatima.smith484@example.com,Indianapolis,IN,Silver,2021-06-27
+C00485,Wei,Thomas,wei.thomas485@example.com,Indianapolis,IN,Bronze,2024-01-17
+C00486,Mary,Thomas,mary.thomas486@example.com,Columbus,OH,Bronze,2022-12-09
+C00487,Wei,Taylor,wei.taylor487@example.com,Toledo,OH,Bronze,2024-08-09
+C00488,Mei,Davis,mei.davis488@example.com,Detroit,MI,Gold,2023-12-05
+C00489,Patricia,Miller,patricia.miller489@example.com,Detroit,MI,Silver,2021-10-04
+C00490,Susan,Jones,susan.jones490@example.com,Toledo,OH,Gold,2021-02-21
+C00491,Susan,Wilson,susan.wilson491@example.com,Indianapolis,IN,Silver,2024-02-15
+C00492,Sofia,Johnson,sofia.johnson492@example.com,Royal Oak,MI,Gold,2021-02-28
+C00493,Sarah,Patel,sarah.patel493@example.com,Columbus,OH,Gold,2022-02-10
+C00494,William,Garcia,william.garcia494@example.com,Columbus,OH,Gold,2021-12-02
+C00495,Sarah,Kumar,sarah.kumar495@example.com,Grand Rapids,MI,Gold,2022-09-18
+C00496,Michael,Davis,michael.davis496@example.com,Grand Rapids,MI,Gold,2021-09-03
+C00497,Linda,Martinez,linda.martinez497@example.com,Grand Rapids,MI,Gold,2021-02-28
+C00498,Carlos,Lopez,carlos.lopez498@example.com,Lansing,MI,Silver,2021-12-15
+C00499,Sarah,Rodriguez,sarah.rodriguez499@example.com,Grand Rapids,MI,Bronze,2023-03-20
+C00500,Mei,Anderson,mei.anderson500@example.com,Toledo,OH,Silver,2024-08-03
+C00501,Barbara,Jones,barbara.jones501@example.com,Grand Rapids,MI,Bronze,2021-08-12
+C00502,Carlos,Williams,carlos.williams502@example.com,Lansing,MI,Silver,2023-09-05
+C00503,David,Lopez,david.lopez503@example.com,Ann Arbor,MI,Bronze,2024-08-22
+C00504,Sarah,Rodriguez,sarah.rodriguez504@example.com,Chicago,IL,Gold,2021-07-10
+C00505,Robert,Brown,robert.brown505@example.com,Indianapolis,IN,Gold,2023-04-16
+C00506,Linda,Davis,linda.davis506@example.com,Detroit,MI,Gold,2022-12-23
+C00507,Linda,Davis,linda.davis507@example.com,Detroit,MI,Bronze,2022-04-26
+C00508,William,Lopez,william.lopez508@example.com,Troy,MI,Gold,2024-04-27
+C00509,Robert,Smith,robert.smith509@example.com,Chicago,IL,Bronze,2022-04-13
+C00510,Wei,Lopez,wei.lopez510@example.com,Columbus,OH,Gold,2021-02-12
+C00511,Ahmed,Martinez,ahmed.martinez511@example.com,Lansing,MI,Silver,2023-08-15
+C00512,Mary,Williams,mary.williams512@example.com,Indianapolis,IN,Bronze,2022-12-31
+C00513,Sofia,Johnson,sofia.johnson513@example.com,Royal Oak,MI,Silver,2020-12-26
+C00514,Lucia,Johnson,lucia.johnson514@example.com,Toledo,OH,Silver,2021-01-16
+C00515,Lucia,Martinez,lucia.martinez515@example.com,Detroit,MI,Bronze,2021-09-03
+C00516,Priya,Taylor,priya.taylor516@example.com,Troy,MI,Silver,2021-08-05
+C00517,Joseph,Anderson,joseph.anderson517@example.com,Chicago,IL,Silver,2020-10-01
+C00518,Ama,Wilson,,Columbus,OH,Silver,2021-01-29
+C00519,Fatima,Brown,fatima.brown519@example.com,Lansing,MI,Bronze,2024-02-06
+C00520,Joseph,Rodriguez,joseph.rodriguez520@example.com,Royal Oak,MI,Bronze,2024-02-17
+C00521,William,Martinez,william.martinez521@example.com,Indianapolis,IN,Gold,2024-03-30
+C00522,Michael,Garcia,michael.garcia522@example.com,Indianapolis,IN,Gold,2022-04-10
+C00523,Olu,Chen,olu.chen523@example.com,Chicago,IL,Silver,2020-06-26
+C00524,Richard,Brown,richard.brown524@example.com,Royal Oak,MI,Bronze,2022-09-04
+C00525,William,Davis,william.davis525@example.com,Detroit,MI,Silver,2022-02-24
+C00526,Linda,Kim,linda.kim526@example.com,Grand Rapids,MI,Silver,2021-09-10
+C00527,Priya,Thomas,priya.thomas527@example.com,Detroit,MI,Silver,2023-08-31
+C00528,Barbara,Davis,barbara.davis528@example.com,Detroit,MI,Gold,2020-08-30
+C00529,Joseph,Martinez,joseph.martinez529@example.com,Royal Oak,MI,Silver,2023-11-06
+C00530,Thomas,Martinez,thomas.martinez530@example.com,Troy,mi,Gold,2021-08-27
+C00531,Barbara,Taylor,barbara.taylor531@example.com,Ann Arbor,MI,Bronze,2020-09-30
+C00532,Jessica,Jones,jessica.jones532@example.com,Columbus,OH,Gold,2023-05-25
+C00533,Barbara,Chen,barbara.chen533@example.com,Chicago,IL,Silver,2024-03-31
+C00534,Sarah,Miller,sarah.miller534@example.com,Ann Arbor,MI,Gold,2024-03-25
+C00535,Arjun,Williams,arjun.williams535@example.com,Chicago,IL,Silver,2022-12-17
+C00536,Carlos,Kumar,carlos.kumar536@example.com,Troy,MI,Gold,2020-08-17
+C00537,Mary,Anderson,mary.anderson537@example.com,Chicago,IL,Bronze,2023-03-18
+C00538,Sarah,Jones,sarah.jones538@example.com,Royal Oak,MI,Silver,2022-12-01
+C00539,Joseph,Brown,joseph.brown539@example.com,Ann Arbor,MI,Gold,2023-04-09
+C00540,Jessica,Williams,jessica.williams540@example.com,Chicago,IL,Silver,2024-07-14
+C00541,Mary,Kim,mary.kim541@example.com,Royal Oak,MI,Gold,2022-04-30
+C00542,Joseph,Thomas,joseph.thomas542@example.com,Detroit,MI,Gold,2022-08-04
+C00543,Mei,Martinez,mei.martinez543@example.com,Detroit,MI,Silver,2021-06-05
+C00544,Olu,Smith,olu.smith544@example.com,Ann Arbor,MI,Gold,2020-05-29
+C00545,Mary,Chen,mary.chen545@example.com,Lansing,MI,Gold,2020-05-10
+C00546,Sarah,Johnson,sarah.johnson546@example.com,Troy,MI,Silver,2020-03-05
+C00547,Elizabeth,Chen,elizabeth.chen547@example.com,Royal Oak,MI,Bronze,2024-04-17
+C00548,Wei,Chen,wei.chen548@example.com,Lansing,MI,Silver,2022-07-07
+C00549,Ama,Nguyen,ama.nguyen549@example.com,Toledo,OH,Bronze,2023-10-30
+C00550,Mei,Anderson,mei.anderson550@example.com,Royal Oak,MI,Gold,2021-12-13
+C00551,Patricia,Garcia,patricia.garcia551@example.com,Chicago,IL,Silver,2022-12-19
+C00552,Robert,Davis,robert.davis552@example.com,Detroit,MI,Bronze,2021-09-03
+C00553,Joseph,Anderson,joseph.anderson553@example.com,Toledo,OH,Gold,2022-02-15
+C00554,Olu,Davis,olu.davis554@example.com,Ann Arbor,MI,Silver,2021-12-09
+C00555,Robert,Rodriguez,,Ann Arbor,MI,Gold,2024-04-16
+C00556,Patricia,Johnson,patricia.johnson556@example.com,Toledo,OH,Gold,2024-04-17
+C00557,Lucia,Smith,lucia.smith557@example.com,Ann Arbor,MI,Bronze,2020-05-17
+C00558,Patricia,Taylor,patricia.taylor558@example.com,Detroit,MI,Silver,2023-05-09
+C00559,Mei,Johnson,mei.johnson559@example.com,Ann Arbor,MI,Gold,2020-03-31
+C00560,Richard,Kim,richard.kim560@example.com,Ann Arbor,MI,Gold,2021-03-20
+C00561,Ahmed,Johnson,ahmed.johnson561@example.com,Royal Oak,MI,Gold,2021-08-15
+C00562,Linda,Thomas,linda.thomas562@example.com,Lansing,MI,Gold,2023-05-09
+C00563,Ahmed,Patel,ahmed.patel563@example.com,Ann Arbor,MI,Silver,2020-10-20
+C00564,Mei,Wilson,mei.wilson564@example.com,Ann Arbor,MI,Silver,2021-09-07
+C00565,David,Johnson,david.johnson565@example.com,Chicago,IL,Gold,2024-02-14
+C00566,Lucia,Garcia,lucia.garcia566@example.com,Toledo,OH,Gold,2022-10-12
+C00567,Mary,Kumar,mary.kumar567@example.com,Toledo,OH,Gold,2021-10-14
+C00568,Carlos,Chen,carlos.chen568@example.com,Toledo,OH,Bronze,2021-09-06
+C00569,Richard,Garcia,richard.garcia569@example.com,Chicago,IL,Silver,2021-05-08
+C00570,Ama,Davis,ama.davis570@example.com,Grand Rapids,MI,Gold,2020-10-22
+C00571,Fatima,Kim,fatima.kim571@example.com,Detroit,MI,Gold,2022-04-25
+C00572,Susan,Anderson,susan.anderson572@example.com,Chicago,IL,Bronze,2022-03-06
+C00573,Linda,Rodriguez,linda.rodriguez573@example.com,Ann Arbor,MI,Silver,2023-08-17
+C00574,John,Kim,john.kim574@example.com,Lansing,MI,Bronze,2023-01-01
+C00575,Sofia,Miller,sofia.miller575@example.com,Detroit,MI,Silver,2022-02-11
+C00576,Mei,Taylor,mei.taylor576@example.com,Indianapolis,IN,Bronze,2020-05-29
+C00577,Michael,Thomas,michael.thomas577@example.com,Chicago,IL,Bronze,2022-09-08
+C00578,Michael,Patel,michael.patel578@example.com,Grand Rapids,MI,Bronze,2021-03-09
+C00579,Lucia,Miller,lucia.miller579@example.com,Troy,MI,Gold,2024-03-24
+C00580,Jessica,Davis,jessica.davis580@example.com,Indianapolis,IN,Gold,2021-02-22
+C00581,Richard,Davis,richard.davis581@example.com,Chicago,IL,Silver,2024-05-07
+C00582,Elizabeth,Nguyen,elizabeth.nguyen582@example.com,Columbus,OH,Gold,2023-08-21
+C00583,Barbara,Martinez,barbara.martinez583@example.com,Grand Rapids,mi,Silver,2022-11-16
+C00584,Diego,Lopez,diego.lopez584@example.com,Columbus,OH,Bronze,2024-07-02
+C00585,Sofia,Lopez,sofia.lopez585@example.com,Lansing,MI,Bronze,2022-01-29
+C00586,William,Chen,william.chen586@example.com,Detroit,MI,Gold,2021-03-29
+C00587,Sofia,Jones,sofia.jones587@example.com,Detroit,MI,Silver,2023-02-07
+C00588,Lucia,Thomas,lucia.thomas588@example.com,Indianapolis,IN,Gold,2022-05-05
+C00589,Elizabeth,Jones,elizabeth.jones589@example.com,Ann Arbor,MI,Silver,2021-04-16
+C00590,Richard,Thomas,richard.thomas590@example.com,Ann Arbor,MI,Silver,2023-02-01
+C00591,Wei,Patel,wei.patel591@example.com,Grand Rapids,MI,Silver,2024-01-21
+C00592,Wei,Lopez,,Columbus,OH,Bronze,2024-02-09
+C00593,Fatima,Kumar,fatima.kumar593@example.com,Royal Oak,MI,Bronze,2024-01-15
+C00594,Sarah,Lopez,sarah.lopez594@example.com,Royal Oak,MI,Gold,2023-08-07
+C00595,Mary,Wilson,mary.wilson595@example.com,Detroit,MI,Bronze,2024-08-02
+C00596,Mei,Johnson,mei.johnson596@example.com,Detroit,MI,Silver,2020-10-08
+C00597,Olu,Davis,olu.davis597@example.com,Troy,MI,Gold,2020-11-05
+C00598,James,Miller,james.miller598@example.com,Chicago,IL,Silver,2022-02-03
+C00599,Mary,Taylor,mary.taylor599@example.com,Indianapolis,IN,Silver,2023-09-12
+C00600,Jessica,Smith,jessica.smith600@example.com,Detroit,MI,Gold,2023-02-03
+C00011,Elizabeth,Davis,elizabeth.davis11@example.com,Detroit,MI,Bronze,2023-03-07
+C00201,Olu,Jones,olu.jones201@example.com,Columbus,OH,Gold,2021-08-20
