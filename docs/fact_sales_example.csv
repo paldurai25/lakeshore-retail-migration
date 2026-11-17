@@ -1,0 +1,4 @@
+order_line_id,order_id,date_key,customer_key,product_key,store_key,quantity,gross_amount,discount_amount,net_revenue
+12,O000005,20260819,C00027,P0025,S002,1,70.82,0.00,70.82
+13,O000005,20260819,C00027,P0027,S002,2,68.84,0.00,68.84
+14,O000005,20260819,C00027,P0036,S002,1,96.00,14.40,81.60
